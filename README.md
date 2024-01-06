@@ -1,7 +1,7 @@
 ### Olá a todos, prazer me Chamo Willyan 👋
 
 - 🔭 Em busca do primeiro emprego como Desenvolvedor.
-- 🌱 Atualmente Estudando JavaScript, React e TypeScript
+- 🌱 Atualmente Estudando JavaScript, React e TypeScript.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
