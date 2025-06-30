@@ -5,7 +5,6 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -42,38 +41,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 70.2 kB Used in GitHub's Storage 
- > 
-> 🏆 126 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7448 commits        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-🌆 Daytime                17637 commits       ████████████████░░░░░░░░░   65.43 % 
-🌃 Evening                1824 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-🌙 Night                  45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   4853 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Tuesday                  5110 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Wednesday                4826 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Thursday                 6659 commits        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Friday                   5329 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Saturday                 133 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Sunday                   44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,14 +59,5 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 ```
-
-**I Mostly Code in TypeScript** 
-
-```text
-C#               30 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Go                       11 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-```
-
-
  Last Updated on 30/06/2025 19:03:43 UTC
 <!--END_SECTION:waka-->
