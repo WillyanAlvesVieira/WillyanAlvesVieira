@@ -30,7 +30,7 @@ I am a Backend Developer focused on C# and PHP and modern web technologies. I ha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,postgres,js,react,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,postgres,js,golang,git" />
   </a>
 </p>
 
