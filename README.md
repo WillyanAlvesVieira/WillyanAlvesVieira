@@ -9,7 +9,7 @@
 
 ---
 
-I am a Backend Developer focused on C# and modern web technologies. I have experience building scalable APIs, working with databases, and integrating systems. I’m always looking to improve my skills and learn new technologies.
+I am a Backend Developer focused on C# and PHP and modern web technologies. I have experience building scalable APIs, working with databases, and integrating systems. I’m always looking to improve my skills and learn new technologies.
 
 ### Find me here:
 
@@ -26,6 +26,7 @@ I am a Backend Developer focused on C# and modern web technologies. I have exper
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 
 <p align="center">
   <a href="https://skillicons.dev">
