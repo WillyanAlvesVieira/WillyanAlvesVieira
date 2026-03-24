@@ -40,14 +40,6 @@ I am a Backend Developer focused on C# and PHP and modern web technologies. I ha
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillyanAlvesVieira/WillyanAlvesVieira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillyanAlvesVieira/WillyanAlvesVieira/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/WillyanAlvesVieira/WillyanAlvesVieira/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 <div align="center"> 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=33A1FD&section=footer&reversal=false&textBg=false"/> 
 </div>
